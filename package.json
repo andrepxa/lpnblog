@@ -5,7 +5,8 @@
   "author": "Austin Green",
   "dependencies": {
     "bulma": "^0.9.0",
-    "gatsby": "^2.20.35",
+    "cross-env": "^7.0.3",
+    "gatsby": "^2.31.1",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-netlify": "^2.2.4",
     "gatsby-plugin-netlify-cms": "^4.2.5",
@@ -39,7 +40,7 @@
   "scripts": {
     "clean": "gatsby clean",
     "start": "npm run develop",
-    "build": "npm run clean && gatsby build",
+    "build": "npm run clean && cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
     "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
