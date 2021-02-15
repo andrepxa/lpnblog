@@ -140,6 +140,13 @@ export const pageQuery = graphql`
           title
           description
         }
+        image {
+          childImageSharp {
+            fluid(maxWidth: 120, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         description
       }
     }

@@ -6,7 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const BlogPostTemplate = ({
+const BlogPostTemplate = ({
   content,
   contentComponent,
   description,
@@ -85,6 +85,7 @@ BlogPost.propTypes = {
   }),
 }
 
+export { BlogPostTemplate }
 export default BlogPost
 
 export const pageQuery = graphql`
