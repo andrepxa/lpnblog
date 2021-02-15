@@ -7,5 +7,6 @@ featuredpost: false
 featuredimage: /img/products-full-width.jpg
 tags:
   - games
+  - test
 ---
 dsadasdasd

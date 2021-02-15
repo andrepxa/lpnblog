@@ -5,6 +5,8 @@ date: 2021-02-01T13:07:35.986Z
 description: Novidades de customização e até um novo modo, inspirados no grupo de k-pop estarão disponíveis no game
 featuredpost: true
 featuredimage: /img/whatsapp-image-2020-09-28-at-1.49.07-pm.jpeg
+tags:
+  - games
 ---
 PUBG MOBILE fará uma parceria com o grupo de k-pop BLACKPINK para celebrar o lançamento de seu último álbum “The Album”. O jogo recebeu artes e temas especiais e uma nova música tema para o lobby. Também terão eventos interativos, como a “Área de Presentes”, onde as integrantes do grupo de k-pop poderão receber presentes e mensagens de apoio dos jogadores.
 
