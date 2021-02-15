@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: PUBG Mobile anuncia parceria com BLACKPINK
 date: 2021-02-01T13:07:35.986Z
-description: Novidades de customização e até um novo modo, inspirados no grupo
-  de k-pop estarão disponíveis no game
+description: Novidades de customização e até um novo modo, inspirados no grupo de k-pop estarão disponíveis no game
 featuredpost: true
 featuredimage: /img/whatsapp-image-2020-09-28-at-1.49.07-pm.jpeg
 ---
